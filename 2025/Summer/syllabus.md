@@ -1,7 +1,6 @@
 # Syllabus
 
-**Course**: COMPSFI 102 – Information Security Essentials
-**Institution**: City Colleges of Chicago  
+**Course**: COMPSFI 102 – Information Security Essentials 
 **Instructor**: Dr. Md Ali
 
 ## Course Description
