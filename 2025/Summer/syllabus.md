@@ -28,4 +28,4 @@ problems
 - Lab Assignments: 25%
 - Exams: 30%
 
-The full syllabus can be found [here](2025/Summer/COMPSFI-102-Summer-2025.pdf)
+The full syllabus can be found [here](./COMPSFI-102-Summer-2025.pdf)
