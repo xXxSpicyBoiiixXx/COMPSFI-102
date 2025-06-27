@@ -8,9 +8,9 @@ title: Summer 2025
 This will be an extremly fast paced course. Please consider this before setting on taking this course as this is one of the hardest cybersecurity domains. This will be completly hands on with multiple assignments and industry level certification. There will be few opportunites to make up work due to the timeline. Do not procrastinate. 
 
 ## Content
-- [Syllabus](syllabus.md)
-- [Schedule](schedule.md) 
+- [Syllabus](./COMPSFI-102-Summer-2025.pdf) 
 - [Assignments](assignments/)
 - [Labs](labs/)
+- [Slides](slides/)
 - [Resources](resources.md)
  
